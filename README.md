@@ -1,2 +1,2 @@
-# Portfolio
-Project Portfolio 
+# This portfolo contains all of my projects.
+
